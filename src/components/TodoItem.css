@@ -1,0 +1,17 @@
+.todo{
+    font-size: 1.8rem;
+    padding: 1em;
+}
+
+.todo:hover{
+    background: rgba(214, 214, 214, 0.342);
+}
+
+.todo input {
+    zoom: 1.6;
+}
+
+.todo input:checked {
+    accent-color: rgb(137, 236, 223);
+}
+
